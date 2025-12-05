@@ -1,2 +1,13 @@
 # cineplusprisma
 aplicacion basica de cobro para un cine en python con wxglade
+This project is a cinema management system created to simulate the main functions of a movie theater. The system allows users to log in, buy movie tickets, and purchase snacks from the candy shop. It was developed using Python with the Tkinter library to design a friendly and interactive graphical interface. The project also uses Git and GitHub for version control and teamwork.
+
+The system contains four main screens that represent the different areas of a cinema. The first one is the Login Screen, where the user can access the system by entering their credentials. The second is the Ticket Booth (Taquilla), which displays all the available movies, showtimes, and prices. In this section, users can choose their desired movie and select how many tickets they want to buy. The third screen is the Candy Shop (Dulcería), where the user can see a list of snacks, drinks, and combos to add to their order. Finally, the fourth screen is the Ticket Screen, which shows a summary of the purchase, including the selected movie tickets, the chosen snacks, and the total amount to pay.
+
+The project was created by a collaborative team that worked following the Scrum methodology. The roles in the team are divided as follows: one Scrum Master, who managed the workflow and meetings; one Product Owner, who defined the project requirements and goals; two Documenters, responsible for creating and organizing all the written documentation; and one Tester, who verified that the system worked correctly and reported possible errors or bugs.
+
+To execute the project, it is necessary to have Python installed on the computer. Then, the user should download or clone the repository from GitHub, open the project folder, and run the main file using the command python main.py. After that, the user can navigate through the screens and interact with the cinema system.
+
+Throughout the development process, several commits were made in GitHub to record the progress of the project. Some of the main commit messages used were: “add combo logic”, which added the functionality to select combos in the candy shop; “fix total calculation”, which corrected an error in the total price calculation; and “integrate ticket screen”, which connected the ticket screen with the rest of the system to show the complete purchase information.
+
+In conclusion, this project represents a simple but functional simulation of a cinema system that allows users to perform basic operations like logging in, selecting movies, buying tickets, and purchasing snacks. It demonstrates teamwork, organization, and the use of programming tools to develop an interactive application using Python and Tkinter.
